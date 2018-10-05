@@ -1,0 +1,7 @@
+=========================================
+Setting up API Server:
+=========================================
+1. create db.json
+2. Run below commands from the folder containing db.json:
+	>> npm install json-server -g
+	>> json-server --watch db.json --port 3004

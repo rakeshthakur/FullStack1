@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  # Identity Service
+  identity-server:
+    build: ./HexIdentityServer/HexIdentityServer/
+    container_name: "idserver"
+    networks:
+      - backend
+    ports: 7000:80

@@ -1,0 +1,44 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "Software COE"
+    },
+    {
+      "id": 2,
+      "name": "Finance"
+    },
+    {
+      "id": 3,
+      "name": "Human Resources"
+    },
+    {
+      "id": 4,
+      "name": "Learning & Development"
+    },
+    {
+      "id": 5,
+      "name": "Marketing"
+    },
+    {
+      "name": "sasasas",
+      "id": 6
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Vijay",
+      "email": "test@test.com",
+      "phone": "1234567890",
+      "department": "Learning & Development"
+    },
+    {
+      "name": "Sreekanth",
+      "email": "sreekanthme@gmail.com",
+      "phone": "9845452168",
+      "department": "Marketing",
+      "id": 4
+    }
+  ]
+}

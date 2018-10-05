@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexMvcClient", "HexMvcClient\HexMvcClient.csproj", "{0290CE3B-74B3-47B2-BC51-06BF1B35131E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0290CE3B-74B3-47B2-BC51-06BF1B35131E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0290CE3B-74B3-47B2-BC51-06BF1B35131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0290CE3B-74B3-47B2-BC51-06BF1B35131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0290CE3B-74B3-47B2-BC51-06BF1B35131E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC2EA45-4075-4A50-99DC-9B19197B5A63}
+	EndGlobalSection
+EndGlobal
