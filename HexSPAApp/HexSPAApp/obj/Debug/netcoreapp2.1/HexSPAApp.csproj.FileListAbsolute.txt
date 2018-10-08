@@ -1,0 +1,14 @@
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\bin\Debug\netcoreapp2.1\HexSPAApp.deps.json
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\bin\Debug\netcoreapp2.1\HexSPAApp.runtimeconfig.json
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\bin\Debug\netcoreapp2.1\HexSPAApp.runtimeconfig.dev.json
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\bin\Debug\netcoreapp2.1\HexSPAApp.dll
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\bin\Debug\netcoreapp2.1\HexSPAApp.pdb
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.csprojAssemblyReference.cache
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.csproj.CoreCompileInputs.cache
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.RazorAssemblyInfo.cache
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.RazorAssemblyInfo.cs
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.AssemblyInfoInputs.cache
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.AssemblyInfo.cs
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.RazorTargetAssemblyInfo.cache
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.dll
+C:\Rakesh\dotnetcore\HexSPAApp\HexSPAApp\obj\Debug\netcoreapp2.1\HexSPAApp.pdb

@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Index</h2>
+
+<form method="post" asp-action="Index" asp-controller="Home">
+    <div class="col-md-6 col-md-offset-3">
+        <div class="form-group">
+            <label for="fname" class="control-label">Name</label>
+            <input type="text" name="fname" class="form-control" />
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary" name="btn" type="submit">Submit</button>
+        </div>
+    </div>
+</form>

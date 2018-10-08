@@ -1,0 +1,14 @@
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\bin\Debug\netcoreapp2.1\WebApiSecurity.deps.json
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\bin\Debug\netcoreapp2.1\WebApiSecurity.runtimeconfig.json
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\bin\Debug\netcoreapp2.1\WebApiSecurity.runtimeconfig.dev.json
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\bin\Debug\netcoreapp2.1\WebApiSecurity.dll
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.csprojAssemblyReference.cache
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.csproj.CoreCompileInputs.cache
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.RazorAssemblyInfo.cache
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.RazorAssemblyInfo.cs
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.AssemblyInfoInputs.cache
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.AssemblyInfo.cs
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.RazorTargetAssemblyInfo.cache
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\bin\Debug\netcoreapp2.1\WebApiSecurity.pdb
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.dll
+C:\Rakesh\dotnetcore\WebApiSecurity\WebApiSecurity\obj\Debug\netcoreapp2.1\WebApiSecurity.pdb
