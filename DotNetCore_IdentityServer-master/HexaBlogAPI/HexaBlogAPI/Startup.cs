@@ -110,6 +110,8 @@ namespace HexaBlogAPI
                 });
             }
 
+            InitializeDatabase(app);
+
             app.UseStaticFiles();
             app.UseAuthentication();
             app.UseCors("MyPolicy");
@@ -121,6 +123,14 @@ namespace HexaBlogAPI
             });
 
             app.UseMvc();
+        }
+
+        private void InitializeDatabase(IApplicationBuilder app)
+        {
+            using (var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope())
+            {
+                serviceScope.ServiceProvider.GetRequiredService<BlogsContext>().Database.Migrate();
+            }
         }
     }
 }

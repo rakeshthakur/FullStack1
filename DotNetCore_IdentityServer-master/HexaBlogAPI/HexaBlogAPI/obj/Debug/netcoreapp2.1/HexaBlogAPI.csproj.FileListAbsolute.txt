@@ -1,0 +1,16 @@
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\bin\Debug\netcoreapp2.1\HexaBlogAPI.deps.json
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\bin\Debug\netcoreapp2.1\HexaBlogAPI.runtimeconfig.json
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\bin\Debug\netcoreapp2.1\HexaBlogAPI.runtimeconfig.dev.json
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\bin\Debug\netcoreapp2.1\HexaBlogAPI.dll
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\bin\Debug\netcoreapp2.1\HexaBlogAPI.pdb
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\bin\Debug\netcoreapp2.1\HexaBlogAPI.xml
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.csprojAssemblyReference.cache
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.RazorAssemblyInfo.cache
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.RazorAssemblyInfo.cs
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.AssemblyInfoInputs.cache
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.AssemblyInfo.cs
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.dll
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.xml
+C:\Users\Hvuser\Documents\GitHub\FullStack\DotNetCore_IdentityServer-master\HexaBlogAPI\HexaBlogAPI\obj\Debug\netcoreapp2.1\HexaBlogAPI.pdb

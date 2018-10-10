@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HexaBlogAPI</name>
+    </assembly>
+    <members>
+        <member name="M:HexaBlogAPI.Controllers.BlogsController.AddBlog(HexaBlogAPI.Models.Blog)">
+            <summary>
+            Adds a new blogs to the blogs collection
+            </summary>
+            <remarks>
+            POST /api/blog
+            Sample data
+            {
+                "title":"Blog title",
+                "content":"Blog content",
+                "addedBy":"Author email",
+                "addedDate":"Posted Date"
+            }
+            </remarks>
+            <param name="blog"></param>
+            <returns>Newly inserted blog object</returns>
+            <response code="201">New blog item is created</response>
+            <response code="400">If invalid blog input object</response>
+        </member>
+    </members>
+</doc>
