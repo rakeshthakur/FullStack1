@@ -1,0 +1,254 @@
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\ApplicationInsights.config
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\OnlineExamSystem.dll.config
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\OnlineExamSystem.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\OnlineExamSystem.pdb
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csc.exe
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csc.exe.config
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csc.rsp
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csi.exe
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csi.exe.config
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csi.rsp
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.AppContext.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Console.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.Compression.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.FileSystem.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.Pipes.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.AccessControl.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Claims.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Threading.Thread.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.ValueTuple.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.XPath.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\vbc.exe
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\vbc.exe.config
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\vbc.rsp
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Antlr3.Runtime.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.SqlServer.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.Web.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Newtonsoft.Json.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Net.Http.Formatting.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Helpers.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.WebHost.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Mvc.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Optimization.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Razor.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Deployment.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Razor.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\WebGrease.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.SqlServer.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Newtonsoft.Json.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Net.Http.Formatting.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Helpers.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.WebHost.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Mvc.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Optimization.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Razor.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Deployment.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Razor.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Antlr3.Runtime.pdb
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.Web.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csprojAssemblyReference.cache
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.CoreCompileInputs.cache
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.CopyComplete
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Cors.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Owin.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Cors.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Owin.dll
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Cors.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Owin.xml
+C:\Users\Hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Cors.dll
+C:\Users\Hvuser\source\repos\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Cors.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\ApplicationInsights.config
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\OnlineExamSystem.dll.config
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\OnlineExamSystem.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\OnlineExamSystem.pdb
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csc.exe
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csc.exe.config
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csc.rsp
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csi.exe
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csi.exe.config
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\csi.rsp
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.AppContext.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Collections.Immutable.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Console.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Diagnostics.Process.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.Compression.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.FileSystem.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.IO.Pipes.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Reflection.Metadata.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.AccessControl.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Claims.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Security.Principal.Windows.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Threading.Thread.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.ValueTuple.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.XmlDocument.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.XPath.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\vbc.exe
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\vbc.exe.config
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\vbc.rsp
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\VBCSCompiler.exe
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\roslyn\VBCSCompiler.exe.config
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Antlr3.Runtime.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.SqlServer.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.Agent.Intercept.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.DependencyCollector.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.Web.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.WindowsServer.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.ApplicationInsights.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Core.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Cors.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.Cookies.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.OAuth.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Web.Infrastructure.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Newtonsoft.Json.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Owin.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Diagnostics.DiagnosticSource.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Net.Http.Formatting.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Cors.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Helpers.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Cors.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Owin.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.WebHost.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Mvc.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Optimization.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Razor.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Deployment.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Razor.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\WebGrease.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\EntityFramework.SqlServer.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Core.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Cors.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.Cookies.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.Owin.Security.OAuth.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Net.Http.Formatting.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Cors.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.Owin.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Newtonsoft.Json.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Helpers.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Http.WebHost.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Mvc.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Optimization.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.Razor.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Deployment.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Web.WebPages.Razor.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Antlr3.Runtime.pdb
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\System.Diagnostics.DiagnosticSource.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.DependencyCollector.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.WindowsServer.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.AI.Web.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csprojAssemblyReference.cache
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.CoreCompileInputs.cache
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.CopyComplete
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
+\\172.25.163.79\wds\Dotnet by Sonu\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
